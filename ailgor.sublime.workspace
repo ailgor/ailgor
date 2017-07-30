@@ -1,0 +1,1145 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"rand",
+				"randrange"
+			],
+			[
+				"lear",
+				"learningRate"
+			],
+			[
+				"lea",
+				"learningRate"
+			],
+			[
+				"tar",
+				"targetStatus"
+			],
+			[
+				"sat",
+				"statusBefore"
+			],
+			[
+				"st",
+				"statusBefore"
+			],
+			[
+				"get",
+				"getCurrentState"
+			],
+			[
+				"fit",
+				"fitnessAfter"
+			],
+			[
+				"act",
+				"actionName"
+			],
+			[
+				"tempera",
+				"temperaturaInterior"
+			],
+			[
+				"age",
+				"agent"
+			],
+			[
+				"prov",
+				"provider"
+			],
+			[
+				"nam",
+				"names"
+			],
+			[
+				"ap",
+				"apiProvider"
+			],
+			[
+				"agent",
+				"agentToAdd"
+			],
+			[
+				"AGENT",
+				"agentToAdd"
+			],
+			[
+				"Mico",
+				"micoAgent"
+			],
+			[
+				"actionL",
+				"actionListProviders"
+			],
+			[
+				"pro",
+				"providerName〔variable〕"
+			],
+			[
+				"contro",
+				"controller"
+			],
+			[
+				"con",
+				"controller〔variable〕"
+			],
+			[
+				"Con",
+				"Controller〔module〕"
+			],
+			[
+				"cont",
+				"controller"
+			],
+			[
+				"provi",
+				"providerAgents〔variable〕"
+			],
+			[
+				"em",
+				"emotionalStatus〔variable〕"
+			],
+			[
+				"a",
+				"alive〔variable〕"
+			],
+			[
+				"perce",
+				"perceptions"
+			],
+			[
+				"sen",
+				"sensorNames〔variable〕"
+			],
+			[
+				"emo",
+				"emotionalAgent〔variable〕"
+			],
+			[
+				"D",
+				"DeviceProvider〔class〕"
+			],
+			[
+				"proiv",
+				"providerName〔variable〕"
+			],
+			[
+				"sq",
+				"sqliteProvider〔variable〕"
+			],
+			[
+				"cl",
+				"class_name"
+			],
+			[
+				"Ag",
+				"AgentDirectory"
+			],
+			[
+				"ag",
+				"agent_directory〔module〕"
+			],
+			[
+				"tex",
+				"textLabel"
+			],
+			[
+				"butt",
+				"buttons"
+			],
+			[
+				"comm",
+				"commands"
+			],
+			[
+				"ac",
+				"actions"
+			],
+			[
+				"inte",
+				"internal_temperature"
+			],
+			[
+				"int",
+				"inputs"
+			],
+			[
+				"cal",
+				"calcSensorFitness"
+			],
+			[
+				"l",
+				"lblTemperatura〔variable〕"
+			],
+			[
+				"sens",
+				"sensorNames"
+			],
+			[
+				"belie",
+				"believes"
+			],
+			[
+				"tag",
+				"tagagent〔argument〕"
+			],
+			[
+				"m",
+				"messages〔variable〕"
+			],
+			[
+				"se",
+				"selectItem〔function〕"
+			],
+			[
+				"pa",
+				"pack_forget〔function〕"
+			],
+			[
+				"add",
+				"addWorld〔function〕"
+			],
+			[
+				"print",
+				"printOutput"
+			],
+			[
+				"dev",
+				"deviceWorld〔variable〕"
+			],
+			[
+				"p",
+				"println〔function〕"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"pr",
+				"printOutput"
+			],
+			[
+				"text",
+				"textPad"
+			],
+			[
+				"o",
+				"output"
+			],
+			[
+				"Devic",
+				"DeviceAction"
+			],
+			[
+				"EXPRE",
+				"EXPRESION_ENFERMO〔variable〕"
+			],
+			[
+				"Ro",
+				"Rodríguez"
+			],
+			[
+				"scaleDi",
+				"scaleDistanceBaseBack"
+			],
+			[
+				"scaleD",
+				"scaleDistanceBaseFront"
+			],
+			[
+				"sca",
+				"scaleDistanceEyes"
+			],
+			[
+				"init",
+				"initImages"
+			],
+			[
+				"dis",
+				"distanceBaseFront"
+			],
+			[
+				"enf",
+				"enfermo〔variable〕"
+			],
+			[
+				"exp",
+				"expresion"
+			],
+			[
+				"de",
+				"def\tFunction"
+			],
+			[
+				"inli",
+				"inline-block"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "main.py",
+			"settings":
+			{
+				"buffer_size": 378,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "#Tamagochi Sim"
+			}
+		},
+		{
+			"file": "ai.py",
+			"settings":
+			{
+				"buffer_size": 1072,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "tomasin.py",
+			"settings":
+			{
+				"buffer_size": 762,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "qlearning.py",
+			"settings":
+			{
+				"buffer_size": 619,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 119.0,
+		"last_filter": "Package Control: Install Package",
+		"selected_items":
+		[
+			[
+				"Package Control: Install Package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 600.0
+	},
+	"console":
+	{
+		"height": 186.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/diego/Investigacion/tomasin"
+	],
+	"file_history":
+	[
+		"/home/diego/Investigacion/tomasin/ai.py",
+		"/home/diego/Investigacion/tomasin/environment.py",
+		"/home/diego/Ejemplos/python/hi-opengym/hi.py",
+		"/home/diego/Ejemplos/python/reinforcement/balancer.py",
+		"/home/diego/Ejemplos/python/reinforcement/run_environment.py",
+		"/home/diego/Ejemplos/python/utilities.py",
+		"/home/diego/Ejemplos/python/example3.py",
+		"/home/diego/Ejemplos/python/example2.py",
+		"/home/diego/Ejemplos/python/example1.py",
+		"/home/diego/Ejemplos/python/regression.py",
+		"/home/diego/Ejemplos/hi-python-ia/example3.py",
+		"/home/diego/Ejemplos/hi-python-ia/hi.py",
+		"/home/diego/Proyectos/aimaker/aimaker/atalaya/web/index.html",
+		"/home/diego/Proyectos/aimaker/aimaker/agent/agentjson.py",
+		"/home/diego/Proyectos/aimaker/aimaker/atalaya/server.py",
+		"/home/diego/Proyectos/aimaker/aimaker/atalaya/web/js/main.js",
+		"/home/diego/Proyectos/aimaker/aimaker/providers/devices/deviceprovider.py",
+		"/home/diego/Proyectos/aimaker/install.sh",
+		"/home/diego/Proyectos/aimaker/aimaker/providers/socket/socketagent.py",
+		"/home/diego/Proyectos/aimaker/aimaker/agent/agent.py",
+		"/home/diego/Proyectos/aimaker/aimaker/providers/socket/socketprovider.py",
+		"/home/diego/Proyectos/aimaker/aimaker/providers/providers.py",
+		"/home/diego/Proyectos/aimaker/aimaker/providers/local/localprovider.py",
+		"/home/diego/Proyectos/aimaker/aimaker/atalaya/web/css/main.css",
+		"/home/diego/Proyectos/aimaker/aimaker/MANIFEST.in",
+		"/home/diego/Proyectos/aimaker/MANIFEST.in",
+		"/home/diego/Proyectos/aimaker/aimaker/atalaya/__main__.py",
+		"/home/diego/Proyectos/aimaker/setup.py",
+		"/home/diego/Proyectos/aimaker/aimaker/server/server.py",
+		"/home/diego/Proyectos/aimaker/aimaker/lib/__init__.py",
+		"/home/diego/Proyectos/aimaker/aimaker/server/providers/__init__.py",
+		"/home/diego/Proyectos/aimaker/aimaker/agent/joiner.py",
+		"/home/diego/Proyectos/aimaker/aimaker/server/__main__.py",
+		"/home/diego/Proyectos/aimaker/aimaker/providers/baseprovider.py",
+		"/home/diego/Proyectos/aimaker/aimaker/agent/invoker.py",
+		"/home/diego/Proyectos/aimaker/aimaker/providers/api/apiprovider.py",
+		"/home/diego/Proyectos/aimaker/aimaker/agent/printer.py",
+		"/home/diego/Proyectos/aimaker/aimaker/creator/commands/agent.py",
+		"/home/diego/Proyectos/aimaker/aimaker/app/app.py",
+		"/home/diego/Proyectos/aimaker/aimaker/joiner/joiner.py",
+		"/home/diego/Proyectos/aimaker/aimaker/display/display.py",
+		"/home/diego/Proyectos/aimaker/aimaker/adder/adder.py",
+		"/home/diego/Proyectos/aimaker/agents/mico/mico.py",
+		"/home/diego/Proyectos/aimaker/aimaker/providers/devices/deviceagent.py",
+		"/home/diego/Proyectos/aimaker/aimaker/providers/devices/deviceaction.py",
+		"/home/diego/Proyectos/aimaker/aimaker/providers/sqlite/sqliteprovider.py",
+		"/home/diego/Proyectos/aimaker/bin/bin.py",
+		"/home/diego/Proyectos/aimaker/bin/atalaya.py",
+		"/home/diego/Proyectos/aimaker/prueba.py",
+		"/home/diego/Proyectos/aimaker/bin/prueba.py",
+		"/home/diego/Proyectos/aimaker/aimaker/atalaya/controller.py",
+		"/home/diego/Proyectos/aimaker/aimaker/atalaya/gui/agent.py",
+		"/home/diego/Proyectos/aimaker/doc/start.txt",
+		"/home/diego/Proyectos/aimaker/agents/diegorys/dummy/dummyAgent.py",
+		"/home/diego/Proyectos/aimaker/packages/aimaker/app/app.py",
+		"/home/diego/Proyectos/aimaker/run.py",
+		"/home/diego/Proyectos/aimaker/atalaya.py",
+		"/home/diego/Proyectos/aimaker/dummy/dummyAgent.py",
+		"/home/diego/Proyectos/aimaker/app.py",
+		"/home/diego/Proyectos/aimaker/mico-api.py",
+		"/home/diego/Proyectos/aimaker/mico-cli.py",
+		"/home/diego/Proyectos/aimaker/rest/api.py",
+		"/home/diego/Proyectos/aimaker/mico/agents/physicalAgent.py",
+		"/home/diego/Proyectos/aimaker/mico/controller/controller.py",
+		"/home/diego/Proyectos/aimaker/mico.py",
+		"/home/diego/Proyectos/aimaker/mico/view/gui/gui.py",
+		"/home/diego/Proyectos/aimaker/mico/view/view.py",
+		"/home/diego/Proyectos/aimaker/aimaker/memory/emotions.py",
+		"/home/diego/Proyectos/aimaker/mico/micoAgent.py",
+		"/home/diego/Proyectos/aimaker/atalaya/controller/controller.py",
+		"/home/diego/Proyectos/aimaker/aimaker/providers/devices/devicefinder.py",
+		"/D/Desarrollo/python/programs/aimaker/aimaker/providers/devices/deviceaction.py",
+		"/D/Desarrollo/python/programs/aimaker/aimaker/providers/devices/deviceagent.py",
+		"/D/Desarrollo/python/programs/aimaker/aimaker/providers/devices/deviceprovider.py",
+		"/D/Desarrollo/python/programs/aimaker/aimaker/providers/devices/sequenceaction.py",
+		"/D/Desarrollo/python/programs/aimaker/aimaker/providers/devices/yamlSequenceLoader.py",
+		"/D/Desarrollo/python/programs/aimaker/bin.py",
+		"/D/Desarrollo/python/programs/aimaker/core/view/view.py",
+		"/D/Desarrollo/python/programs/aimaker/atalaya.py",
+		"/D/Desarrollo/python/programs/aimaker/tools/atalaya/cli/__init__.py",
+		"/D/Desarrollo/python/programs/aimaker/tools/gui.py",
+		"/D/Desarrollo/python/programs/aimaker/tools/gui/gui.py",
+		"/D/Desarrollo/python/programs/aimaker/tools/gui/agents.py",
+		"/D/Desarrollo/python/programs/aimaker/core/controller/controller.py",
+		"/D/Desarrollo/python/programs/aimaker/tools/gui/toolbar.py",
+		"/D/Desarrollo/python/programs/aimaker/core/providers/sqlite/sqliteprovider.py",
+		"/D/Desarrollo/python/programs/aimaker/core/providers/baseprovider.py",
+		"/D/Desarrollo/python/programs/aimaker/tools/gui/providers.py",
+		"/D/Desarrollo/python/examples/led.py",
+		"/D/Desarrollo/python/examples/light_sensor.py",
+		"/D/Desarrollo/python/programs/aimaker/gui.py",
+		"/D/Desarrollo/python/programs/aimaker/tools/gui/gui.old.py",
+		"/D/Desarrollo/python/programs/aimaker/core/providers/__init__.py",
+		"/D/Desarrollo/python/programs/aimaker/tools/gui/console.py",
+		"/D/Desarrollo/python/programs/aimaker/agents/mico/micoAgent.py",
+		"/D/Desarrollo/python/programs/aimaker/core/providers/providers.py",
+		"/D/Desarrollo/python/programs/aimaker/core/providers/devices/deviceaction.py",
+		"/D/Desarrollo/python/programs/aimaker/core/providers/devices/deviceprovider.py",
+		"/D/Desarrollo/python/programs/aimaker/mico-test.py",
+		"/D/Desarrollo/python/programs/aimaker/tools/gui/monitor.py",
+		"/D/Desarrollo/python/programs/aimaker/core/model/agent.py",
+		"/D/Desarrollo/python/programs/aimaker/core/model/action.py",
+		"/D/Desarrollo/python/programs/aimaker/core/providers/devices/deviceagent.py",
+		"/D/Desarrollo/python/examples/request.py",
+		"/D/Desarrollo/python/programs/test.py",
+		"/D/Desarrollo/angular/example/package.json",
+		"/D/Desarrollo/python/programs/aimaker/core/providers/sqlite/believes.py",
+		"/D/Desarrollo/python/programs/aimaker/core/providers/sqlite/emotions.py",
+		"/D/Desarrollo/python/programs/aimaker/core/providers/devices/deviceworld.py",
+		"/D/Desarrollo/python/programs/aimaker/core/model/policy.py",
+		"/D/Desarrollo/python/programs/aimaker/core/providers/devices/devicefinder.py",
+		"/D/Desarrollo/python/programs/aimaker/core/providers/devices/yamlSequenceLoader.py",
+		"/D/Desarrollo/python/programs/aimaker/core/providers/devices/sequenceaction.py",
+		"/D/Desarrollo/python/vendor/python-slugify-master/setup.py",
+		"/D/Desarrollo/python/programs/aimaker/core/core/providers/sqlite/sqliteprovider.py",
+		"/D/Desarrollo/python/programs/aimaker/core/test.py",
+		"/D/Desarrollo/python/programs/aimaker/core/bin.py",
+		"/D/Desarrollo/python/programs/aimaker/core/core/providers/sqlite/provider.py",
+		"/D/Desarrollo/python/programs/aimaker/core/core/model/agent.py",
+		"/D/Desarrollo/python/programs/aimaker/core/services/agent_directory_service.py",
+		"/D/Desarrollo/python/programs/aimaker/core/service.py",
+		"/Y/dev/gpio-demo/button.py",
+		"/Y/dev/gpio-demo/temperature.py",
+		"/Y/dev/gpio-demo/led-on.py",
+		"/Y/dev/gpio-demo/led-off.py",
+		"/Y/dev/gpio-demo/demo.py",
+		"/Y/bin.py",
+		"/X/test.py"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 138.0,
+		"where_history":
+		[
+			"D:\\Desarrollo\\python\\programs\\aimaker",
+			"D:\\Desarrollo\\python\\programs\\aimaker-core",
+			"D:\\Desarrollo\\python\\programs\\aimaker-python",
+			"D:\\Desarrollo\\python\\programs\\robot-python",
+			"D:\\Desarrollo\\arduino\\libraries",
+			"D:\\Desarrollo\\php\\magento\\xigoodies\\skin\\frontend\\xg\\default\\scss\\",
+			"D:\\Desarrollo\\php\\magento\\xigoodies\\skin\\frontend\\xg\\default\\scss\\content",
+			"D:\\Desarrollo\\php\\magento\\xigoodies\\skin\\frontend\\xg\\default\\scss",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"tomasin",
+			"action",
+			"alpha",
+			"From ",
+			"1",
+			"fitness",
+			"sensors",
+			"sensor",
+			"qlearning",
+			" tomasin",
+			"status",
+			"statusBefore",
+			"status",
+			"getCurrentState",
+			"state",
+			"states",
+			"before",
+			"after",
+			"status",
+			"\t",
+			"\t\n",
+			"\t",
+			"select",
+			"invoke",
+			"attr",
+			"provider",
+			".list",
+			"agents",
+			"agent",
+			"sudo ",
+			"agent",
+			"params",
+			"sensor",
+			"providers__list",
+			"error(function()",
+			"    ",
+			"   ",
+			"  ",
+			"Mico",
+			"Action(",
+			"route(\"/",
+			"Action(",
+			"Action():",
+			"route(\"/",
+			"actuators",
+			"Device",
+			"local",
+			"Local",
+			"provider/<tag>/",
+			"name",
+			"agents = []",
+			"self.repProviders",
+			"self",
+			"    ",
+			"repProviders",
+			"update",
+			"[]\n",
+			"update",
+			"names",
+			"FROM\",providerName,agentTag",
+			"Runner",
+			"runner",
+			"my_",
+			"foo",
+			"device",
+			"model",
+			"cli",
+			"imporlib",
+			"import importlib.util",
+			".agents",
+			"agents.",
+			"agents",
+			"yaml",
+			"yml",
+			"gitignore",
+			"mico",
+			"Mico",
+			"mico",
+			"Mico",
+			"data",
+			"childrens",
+			"agent",
+			"atalaya",
+			"core",
+			"gui",
+			"agentsDirectory",
+			"providersDirectory",
+			"running",
+			"messagebox",
+			"executionResult",
+			"update",
+			"left",
+			"right",
+			"left",
+			"directory",
+			"left",
+			"'Provider update'",
+			"Add p",
+			"loop",
+			"selectItem",
+			"self.log",
+			"view",
+			"self.data",
+			"self.",
+			"providers",
+			"enviroment",
+			"emotionalAgent",
+			"sensorNames",
+			"action",
+			"executions",
+			"request",
+			"rep",
+			" = None",
+			"eMax",
+			"emotionalStatus",
+			"currentEmotion",
+			"sensor",
+			"emotionsOld",
+			"self.provider",
+			"provider",
+			"ACK",
+			"No agent",
+			"print",
+			"message",
+			"messages",
+			"self.agent",
+			"self.",
+			"output"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"from aimaker.core",
+			"from aimaker.",
+			"",
+			"ActuatorNeck360",
+			"SensorLDR",
+			"It has not received anything.",
+			"We execute the order.",
+			"We received the order",
+			"ActuatorBuzzer",
+			"buzzer",
+			"ActuatorBuzzer",
+			"velocity",
+			"Actuator",
+			"neck",
+			"RobotNeck360",
+			"arms",
+			"RobotArms",
+			"{}",
+			"AgentCommunication",
+			"Sensor",
+			"RobotDistance",
+			"agent",
+			"Agent",
+			"$primary-color",
+			"$secondary-color",
+			"$primary-color",
+			"$c-red",
+			"#F90404",
+			"$_item",
+			"#F53636",
+			"#EA4D4F"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "main.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 378,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								103,
+								103
+							]
+						],
+						"settings":
+						{
+							"auto_name": "#Tamagochi Sim",
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "ai.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1072,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								226,
+								226
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "tomasin.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 762,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								709,
+								709
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "qlearning.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 619,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								618,
+								618
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "tomasin.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"belie",
+				"aimaker\\core\\bdi\\believes.py"
+			],
+			[
+				"mes",
+				"gui\\messages.py"
+			],
+			[
+				"messa",
+				"gui\\messages.py"
+			],
+			[
+				"devicea",
+				"worlds\\devices\\actions\\deviceaction.py"
+			],
+			[
+				"gui",
+				"gui\\gui.py"
+			],
+			[
+				"agent",
+				"aimaker\\core\\agent.py"
+			],
+			[
+				"enviro",
+				"aimaker\\core\\enviroment.py"
+			],
+			[
+				"en",
+				"aimaker\\core\\enviroment.py"
+			],
+			[
+				"envirom",
+				"aimaker\\core\\enviroment.py"
+			],
+			[
+				"mai",
+				"main.py"
+			],
+			[
+				"evnir",
+				"aimaker\\core\\enviroment.py"
+			],
+			[
+				"robot",
+				"packages\\robot\\robot.py"
+			],
+			[
+				"home",
+				"cms\\home.html"
+			],
+			[
+				"xigostyle.css",
+				"skin\\frontend\\xigoodies\\default\\css\\styles.css"
+			],
+			[
+				"xgfooter",
+				"app\\design\\frontend\\xg\\default\\template\\page\\html\\footer.phtml"
+			],
+			[
+				"xigoofooterphtml",
+				"app\\design\\frontend\\xigoodies\\default\\template\\page\\html\\footer.phtml"
+			],
+			[
+				"xgpage",
+				"app\\design\\frontend\\xg\\default\\layout\\page.xml"
+			],
+			[
+				"pagexml",
+				"app\\design\\frontend\\xigoodies\\default\\layout\\page.xml"
+			],
+			[
+				"xigoohea",
+				"app\\design\\frontend\\xigoodies\\default\\template\\page\\html\\header.phtml"
+			],
+			[
+				"xgswitch",
+				"app\\design\\frontend\\xg\\default\\template\\page\\switch\\flags.phtml"
+			],
+			[
+				"xgheaderphtm",
+				"app\\design\\frontend\\xg\\default\\template\\page\\html\\header.phtml"
+			],
+			[
+				"xgappjs",
+				"skin\\frontend\\xg\\default\\js\\app.js"
+			],
+			[
+				"baseproductview",
+				"app\\design\\frontend\\base\\default\\template\\catalog\\product\\view.phtml"
+			],
+			[
+				"rwdproductview",
+				"app\\design\\frontend\\rwd\\default\\template\\catalog\\product\\view.phtml"
+			],
+			[
+				"xigoview",
+				"app\\design\\frontend\\xigoodies\\default\\template\\catalog\\product\\view.phtml"
+			],
+			[
+				"minicart",
+				"app\\design\\frontend\\rwd\\default\\template\\checkout\\cart\\minicart.phtml"
+			],
+			[
+				"rwdpagexm",
+				"app\\design\\frontend\\rwd\\default\\layout\\page.xml"
+			],
+			[
+				"rwdpageh",
+				"app\\design\\frontend\\rwd\\default\\template\\page\\html\\pager.phtml"
+			],
+			[
+				"xigopa",
+				"app\\design\\frontend\\xigoodies\\default\\layout\\page.xml"
+			],
+			[
+				"rwdheaderpht",
+				"app\\design\\frontend\\rwd\\default\\template\\page\\html\\header.phtml"
+			],
+			[
+				"xigoodiesheader",
+				"app\\design\\frontend\\xigoodies\\default\\template\\page\\html\\header.phtml"
+			],
+			[
+				"noconf",
+				"js\\lib\\jquery\\noconflict.js"
+			],
+			[
+				"xigoofooter",
+				"app\\design\\frontend\\xigoodies\\default\\template\\page\\html\\footer.phtml"
+			],
+			[
+				"rwdpage",
+				"app\\design\\frontend\\rwd\\default\\layout\\page.xml"
+			],
+			[
+				"checkoutcartside",
+				"app\\design\\frontend\\xigoodies\\default\\template\\checkout\\cart\\sidebar.phtml"
+			],
+			[
+				"sidebarphtml",
+				"app\\design\\frontend\\base\\default\\template\\checkout\\cart\\sidebar.phtml"
+			],
+			[
+				"left",
+				"app\\design\\frontend\\base\\default\\template\\catalog\\navigation\\left.phtml"
+			],
+			[
+				"leftc",
+				"app\\design\\frontend\\base\\default\\template\\callouts\\left_col.phtml"
+			],
+			[
+				"right_col",
+				"app\\design\\frontend\\base\\default\\template\\callouts\\right_col.phtml"
+			],
+			[
+				"newsletterhtml",
+				"app\\design\\frontend\\base\\default\\template\\customer\\form\\newsletter.phtml"
+			],
+			[
+				"home.",
+				"cms\\home.html"
+			],
+			[
+				"home.htm",
+				"cms\\home.html"
+			],
+			[
+				"page.x",
+				"app\\design\\frontend\\xigoodies\\default\\layout\\page.xml"
+			],
+			[
+				"xigoodiesfooter",
+				"app\\design\\frontend\\xigoodies\\default\\template\\page\\html\\footer.phtml"
+			],
+			[
+				"footer",
+				"downloader\\template\\footer.phtml"
+			],
+			[
+				"pagexm",
+				"app\\design\\frontend\\base\\default\\layout\\page.xml"
+			],
+			[
+				"searchphtml",
+				"app\\design\\frontend\\base\\default\\template\\catalogsearch\\form.mini.phtml"
+			],
+			[
+				"xigoosty",
+				"skin\\frontend\\xigoodies\\default\\css\\styles.css"
+			],
+			[
+				"xigoopag",
+				"app\\design\\frontend\\xigoodies\\default\\layout\\page.xml"
+			],
+			[
+				"foo",
+				"app\\design\\frontend\\xigoodies\\default\\template\\page\\html\\footer.phtml"
+			],
+			[
+				"foot",
+				"downloader\\template\\footer.phtml"
+			],
+			[
+				"2columnsleft",
+				"app\\design\\frontend\\xigoodies\\default\\template\\page\\2columns-left.phtml"
+			],
+			[
+				"local.xml",
+				"app\\etc\\local.xml.template"
+			],
+			[
+				"local.",
+				"app\\etc\\local.xml"
+			],
+			[
+				"page.xml",
+				"app\\design\\frontend\\rwd\\default\\layout\\page.xml"
+			],
+			[
+				"local",
+				"app\\etc\\local.xml"
+			],
+			[
+				"config.xml",
+				"app\\etc\\config.xml"
+			],
+			[
+				"localxml",
+				"app\\etc\\local.xml"
+			],
+			[
+				"config",
+				"app\\etc\\config.xml"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 750.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Proyectos/agents/mico/mico.sublime-workspace"
+			],
+			[
+				"arduin",
+				"D:\\Desarrollo\\arduino\\libraries\\arduino_libraries.sublime-project"
+			],
+			[
+				"pac",
+				"D:\\Desarrollo\\python\\packages\\packages-python.sublime-project"
+			]
+		],
+		"width": 570.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 212.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

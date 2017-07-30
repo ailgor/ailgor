@@ -1,2 +1,3 @@
-# ailgor
+# Ailgor
+
 A.I. Algorithms
